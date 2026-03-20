@@ -1,4 +1,4 @@
-# Early Lung Cancer Diagnosis Using Patient-Specific Indicators and Explainable AI
+# Early Lung Cancer Diagnosis
 
 ## Introduction
 This study addresses the limitations of traditional Computer-Aided Detection (CAD) systems by focusing on non-imaging, patient-specific features such as:
