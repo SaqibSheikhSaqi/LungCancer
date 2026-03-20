@@ -54,7 +54,7 @@ To improve model performance and reliability:
 - **Standard Scaling** was used to normalize feature values and ensure consistency.
 
 ### Model Implementation
-A **RandomForestRegressor** model was implemented due to its robustness and ability to handle complex feature interactions.
+A **Machine Learning Model** model was implemented due to its robustness and ability to handle complex feature interactions.
 
 ### Performance Metrics
 The model achieved:
@@ -115,21 +115,7 @@ Unlike static predictions, counterfactual analysis enables:
 
 ---
 
-## Results and Discussion
-The proposed framework demonstrates superior performance compared to traditional imaging-based CAD systems. By utilizing patient-specific indicators, the model avoids variability issues associated with medical images and provides consistent, accurate predictions.
 
----
-
-## Conclusion
-The proposed method enables:
-- Early and accurate detection of lung cancer
-- Improved patient awareness and engagement
-- Interpretable and accessible healthcare systems
-- Personalized risk reduction through counterfactual insights
 
 This approach enhances both the quality and accessibility of patient care by combining machine learning and explainable AI techniques.
 
----
-
-## Keywords
-Lung Cancer, Early Detection, Random Forest, Explainable AI, LIME, SHAP, SMOTE, Counterfactual Analysis
